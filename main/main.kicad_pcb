@@ -455,7 +455,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 05591630-389b-4ba8-8055-3ed524c682c2)
-    (at 156 0)
+    (at 165.75 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -542,7 +542,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 07da04a7-57d4-4923-bdda-d153156e4dab)
-    (at 175.5 19.5)
+    (at 185.25 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -1302,7 +1302,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 0fbf589a-b5fe-4d67-9cc2-3a4317cc0dd3)
-    (at 243.75 39)
+    (at 253.5 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -1565,7 +1565,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 129aa31d-431d-4da7-9550-f65619b4d87f)
-    (at 58.5 0)
+    (at 68.25 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -2036,7 +2036,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 1b9c3438-b221-46ec-a2cd-a09ff84d2b15)
-    (at -166.925 36.37)
+    (at 170.625 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -2223,7 +2223,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 1bfa566f-b832-45df-b470-48fd2e0ae45f)
-    (at 73.125 58.5)
+    (at 82.875 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -2864,7 +2864,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 2bb55984-b8a0-46e1-aedd-1ba36e5e9068)
-    (at 19.5 19.5)
+    (at 29.25 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -2951,7 +2951,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 2bca1276-dd71-4899-8180-c05b1255e35d)
-    (at 68.25 39)
+    (at 78 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -3038,7 +3038,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 2cfd6084-29cb-4775-a656-80f095f37024)
-    (at -184.555 -12.08)
+    (at 168.1875 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -3461,7 +3461,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 39c1c0de-cbaf-42c5-a4fd-262d17a735da)
-    (at 131.625 58.5)
+    (at 141.375 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -3548,7 +3548,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 3b7d7337-4677-442c-b782-fb8e361b273f)
-    (at 107.25 39)
+    (at 117 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -3635,7 +3635,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 3baa6352-e8b9-42b0-964a-37f54b317ffa)
-    (at 87.75 39)
+    (at 97.5 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -3722,7 +3722,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 3c056f80-1551-4f95-a554-f40594d5144e)
-    (at -202.185 -12.08)
+    (at 255.9375 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -3809,7 +3809,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 3c812c8f-70f3-4b8f-aade-8664ac1909e8)
-    (at -166.925 -44.38)
+    (at 119.4375 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -3896,7 +3896,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 3d313841-f466-4c06-a7ef-1cdaaf3bda22)
-    (at -219.815 20.22)
+    (at 270.5625 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -3983,7 +3983,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 3db40a2a-4a12-4deb-9cc8-121e5c772bec)
-    (at -272.705 4.07)
+    (at 190.125 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -4246,7 +4246,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 4269c8b1-5e04-4b0e-92c5-88617fdf5f27)
-    (at 214.5 0)
+    (at 224.25 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -4333,7 +4333,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 428f23c0-a22f-4731-9e53-6ff59c20373f)
-    (at 0 0)
+    (at 9.75 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -4684,7 +4684,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 48a37c13-3325-4874-b4e4-5388c54b81a0)
-    (at 92.625 58.5)
+    (at 102.375 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -4771,7 +4771,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 48afb3ad-cdd5-4858-8ae0-26f04e30fe13)
-    (at -219.815 -28.23)
+    (at 73.125 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -4981,7 +4981,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 4bbf0164-467a-4c76-94af-88afb665a112)
-    (at 97.5 0)
+    (at 107.25 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -5202,7 +5202,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 4dd89f56-04f6-4b9a-9889-cc9324a89485)
-    (at 7.3125 58.5)
+    (at 17.0625 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -5462,7 +5462,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 53c1a138-766c-4e50-9468-6eedde27da9f)
-    (at 117 19.5)
+    (at 126.75 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -5549,7 +5549,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 5475f6b0-3ad5-4c34-b10e-54a0ef05fb05)
-    (at 4.875 39)
+    (at 14.625 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -5636,7 +5636,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 547950cb-f264-4f62-9ab1-e7ec0e88180e)
-    (at -149.295 -28.23)
+    (at 21.9375 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -5754,7 +5754,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 55f12653-0e7f-4517-9e4f-fb36d245ab63)
-    (at 185.25 39)
+    (at 195 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -6037,7 +6037,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 58109157-f5ba-4d44-9cbd-e7c3aa38eb92)
-    (at 146.25 39)
+    (at 156 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -6166,7 +6166,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 5995f4c7-9ef3-4f3a-a7ca-9857d66c745f)
-    (at -114.035 -60.53)
+    (at 238.875 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -6253,7 +6253,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 59bbfdfa-a356-487f-ad0e-dcab02b68145)
-    (at 273 0)
+    (at 282.75 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -6413,7 +6413,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 5ab748df-7361-477b-bd13-bdbea8992c1b)
-    (at -219.815 -60.53)
+    (at 131.625 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -6723,7 +6723,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 5e486aa4-8736-4d40-94d9-e65b1bdbdc51)
-    (at -114.035 -44.38)
+    (at 151.125 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -6964,7 +6964,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 626b358d-daba-4b6b-bfb3-abdbb0570d49)
-    (at -255.075 36.37)
+    (at 229.125 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -7124,7 +7124,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 64143065-9147-4a74-95eb-b31b12781196)
-    (at 165.75 39)
+    (at 175.5 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -7211,7 +7211,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 652171b9-76ef-4365-9ddd-29b14c42db46)
-    (at -272.705 -44.38)
+    (at 209.625 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -7298,7 +7298,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 6532811b-132f-45c1-b0b6-79c90ccfeb49)
-    (at 48.75 39)
+    (at 58.5 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -7612,7 +7612,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 6aa4fc27-2c28-402c-a9d4-ee33ca4c536e)
-    (at 214.5 19.5)
+    (at 224.25 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -8187,7 +8187,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 763f36b5-bf1c-4460-b557-8a75fc89e3bd)
-    (at -202.185 -76.68)
+    (at 265.6875 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -8274,7 +8274,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 76567545-01eb-428f-b1b9-8084cd466572)
-    (at 224.25 39)
+    (at 234 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -8587,7 +8587,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 7f60fbc6-624b-4764-8705-9221d72ac056)
-    (at -237.445 -12.08)
+    (at 112.125 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -8674,7 +8674,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 7f92a53d-4c69-45bb-9ef9-5cd0b1f0b210)
-    (at 195 0)
+    (at 204.75 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -8842,7 +8842,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 841d3651-74d5-46a8-8e82-80228a845fd7)
-    (at 97.5 19.5)
+    (at 107.25 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -9125,7 +9125,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 86c4d8b8-bda3-4d67-8f4c-8eadbdc9bf1e)
-    (at 78 0)
+    (at 87.75 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -9408,7 +9408,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 8a0541af-c05d-4323-8021-08c9b2a12ea6)
-    (at 34.125 58.5)
+    (at 43.875 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -9495,7 +9495,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 8b3c8736-7e2f-4580-a024-3b6b84416982)
-    (at 195 19.5)
+    (at 204.75 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -9624,7 +9624,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 8c3fbed4-d74d-4278-9a46-f52762cf35bf)
-    (at 58.5 19.5)
+    (at 68.25 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -9711,7 +9711,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 8c6ed263-e423-419c-94d5-e3600687a031)
-    (at -202.185 36.37)
+    (at 219.375 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -10013,7 +10013,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 8fa60bc2-00a3-4e09-9ed2-da8a3bb4e6ad)
-    (at -149.295 -76.68)
+    (at 53.625 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -10226,7 +10226,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 92205fd1-faa1-4282-b2b7-de907b2d3348)
-    (at -61.145 -76.68)
+    (at 60.9375 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -10498,7 +10498,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 944048a4-25df-4045-a25a-d20c12e429dd)
-    (at 112.125 58.5)
+    (at 121.875 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -10758,7 +10758,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 974f9ccb-d3be-4481-9273-48786c1d63fb)
-    (at -237.445 -60.53)
+    (at 231.5625 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -11052,7 +11052,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 9acf4d2c-682f-4492-9f09-baada0c5e2da)
-    (at 234 19.5)
+    (at 243.75 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -11377,7 +11377,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp 9f465c9b-3de3-450e-97ab-0c14c3b2d7a5)
-    (at -149.295 -12.08)
+    (at 207.1875 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -11618,7 +11618,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp a2d624e4-a862-4340-9741-3a4ddcb8bc2d)
-    (at -96.405 -60.53)
+    (at 12.1875 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -11805,7 +11805,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp a3985f55-8fe7-43d5-b280-920bc1311055)
-    (at 234 0)
+    (at 243.75 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -11985,7 +11985,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp a68d8066-9e63-49d9-8f9c-3058c329f20f)
-    (at 39 19.5)
+    (at 48.75 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -12287,7 +12287,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp aa1f9509-b669-4908-93b0-3a761c7d70f4)
-    (at -202.185 -44.38)
+    (at 85.3125 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -12374,7 +12374,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp ab387f8c-0dbc-49bd-aa11-dc229abe76aa)
-    (at -219.815 36.37)
+    (at 160.875 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -12657,7 +12657,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp acf75394-3cc7-406f-839d-bfc1d5401522)
-    (at -272.705 20.22)
+    (at 199.875 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -12775,7 +12775,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp ae78d6fe-6d89-46a2-b716-4bf0b9cf82ab)
-    (at 19.5 0)
+    (at 29.25 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -12862,7 +12862,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp aee74a28-ab6c-4ed8-b87c-4b88c045ad5a)
-    (at 29.25 39)
+    (at 39 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -13053,7 +13053,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp b6805ef6-b318-4f0a-9853-de7c2c5813d4)
-    (at 136.5 0)
+    (at 146.25 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -13190,7 +13190,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp b91075c3-ecca-43ad-a1f8-0f6e55015efb)
-    (at 53.625 58.5)
+    (at 63.375 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -13615,7 +13615,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp bda9e058-6b1c-470a-82ba-3ae325459c5a)
-    (at 263.25 19.5)
+    (at 273 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -13764,7 +13764,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp c1d7dbbb-e91c-49d5-b4d5-c1d09392d117)
-    (at 175.5 0)
+    (at 185.25 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -14471,7 +14471,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp d299a962-2a88-4039-9ae8-3a8157bdaa52)
-    (at -255.075 20.22)
+    (at 180.375 58.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -15284,7 +15284,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp dd2d5a8d-13bc-4fd5-a7fb-81e923e1cf95)
-    (at 78 19.5)
+    (at 87.75 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -16069,7 +16069,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp e69bfb49-fdb6-4b8d-9e1d-5a02cafc9463)
-    (at 136.5 19.5)
+    (at 146.25 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -16240,7 +16240,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp e748910a-0ea1-48ab-b67b-c8943c4890ea)
-    (at 126.75 39)
+    (at 136.5 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -16442,7 +16442,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp e90fcd79-fe1e-44dd-9418-bb6e5479e811)
-    (at 0 19.5)
+    (at 9.75 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -16579,7 +16579,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp ecdf9069-109e-4ae0-bfcd-8ce4b6ab9f9e)
-    (at 39 0)
+    (at 48.75 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -16666,7 +16666,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp ed375e9d-854c-4c87-a317-942cd066c8ea)
-    (at 117 0)
+    (at 126.75 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -16753,7 +16753,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp edbcba9d-5196-4ca4-97de-2d591da067e3)
-    (at 204.75 39)
+    (at 214.5 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -16840,7 +16840,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp edd97ca6-6cdb-4c22-ba4c-8be60ff830f4)
-    (at 156 19.5)
+    (at 165.75 19.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -16927,7 +16927,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp ee001045-bed4-4c4f-a4fd-4f3cf7003f90)
-    (at 268.125 39)
+    (at 277.875 39)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -17014,7 +17014,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp ee216b5d-6f08-43f1-b87f-932c79abaa8a)
-    (at -184.555 -76.68)
+    (at 36.5625 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -17101,7 +17101,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp ee655680-7e22-404f-86e3-f80bcafae165)
-    (at -149.295 -44.38)
+    (at 280.3125 97.5)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -18036,7 +18036,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp ff279bef-46fa-46f7-90ba-7f069df3244f)
-    (at 253.5 0)
+    (at 263.25 0)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
@@ -18207,7 +18207,7 @@
 
   (footprint "chonc60:Kailh_socket_MX_optional" (layer "F.Cu")
     (tedit 60908D53) (tstamp ffc0c2b5-e154-4145-a412-52c68783439c)
-    (at -114.035 -76.68)
+    (at 92.625 78)
     (descr "MX-style keyswitch with support for optional Kailh socket")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheet file" "keyswitches.kicad_sch")
