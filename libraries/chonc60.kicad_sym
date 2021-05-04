@@ -50,7 +50,7 @@
     (property "Value" "SK6812MINI-E" (id 1) (at 1.27 -5.715 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (property "Footprint" "bigbutton:LED_SK6812_MINI_E_REVERSE" (id 2) (at 1.27 -7.62 0)
+    (property "Footprint" "chonc60:LED_SK6812_MINI_E_REVERSE" (id 2) (at 1.27 -7.62 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://ecksteinimg.de/Datasheet/LED/LED0011/SK6812MINI-E_REV02_EN.pdf" (id 3) (at 2.54 -9.525 0)
