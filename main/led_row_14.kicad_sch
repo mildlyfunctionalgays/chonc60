@@ -61,7 +61,7 @@
       (property "Value" "SK6812MINI-E" (id 1) (at 1.27 -5.715 0)
         (effects (font (size 1.27 1.27)) (justify left top))
       )
-      (property "Footprint" "bigbutton:LED_SK6812_MINI_E_REVERSE" (id 2) (at 1.27 -7.62 0)
+      (property "Footprint" "chonc60:LED_SK6812_MINI_E_REVERSE" (id 2) (at 1.27 -7.62 0)
         (effects (font (size 1.27 1.27)) (justify left top) hide)
       )
       (property "Datasheet" "https://ecksteinimg.de/Datasheet/LED/LED0011/SK6812MINI-E_REV02_EN.pdf" (id 3) (at 2.54 -9.525 0)
@@ -600,7 +600,7 @@
 
   (symbol (lib_id "power:+5V") (at 33.02 55.88 0)
     (in_bom yes) (on_board yes)
-    (uuid ecf5a746-a1ea-4ca8-9c7b-a644a6c4ef6a)
+    (uuid 50fe9d3e-ac0c-4231-95f0-f9dc7f31510c)
     (property "Reference" "#PWR0139" (id 0) (at 33.02 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -616,7 +616,7 @@
 
   (symbol (lib_id "power:+5V") (at 34.29 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid 417d1544-c703-42a0-80fa-e87fd43b1865)
+    (uuid 0718c4b3-792f-4d30-bd86-b087b4387eec)
     (property "Reference" "#PWR0109" (id 0) (at 34.29 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -632,7 +632,7 @@
 
   (symbol (lib_id "power:+5V") (at 43.18 68.58 0)
     (in_bom yes) (on_board yes)
-    (uuid 9cd788ba-4126-472e-9760-96c001c80503)
+    (uuid 807f7c43-022b-41e6-844a-bfb53a6e06e5)
     (property "Reference" "#PWR0144" (id 0) (at 43.18 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -648,7 +648,7 @@
 
   (symbol (lib_id "power:+5V") (at 44.45 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid c7ad4bd7-9aec-4d37-989a-e96087ba7953)
+    (uuid fed2ad27-5401-46b7-9051-90da64297159)
     (property "Reference" "#PWR0119" (id 0) (at 44.45 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -664,7 +664,7 @@
 
   (symbol (lib_id "power:+5V") (at 58.42 55.88 0)
     (in_bom yes) (on_board yes)
-    (uuid d1feabc0-5efa-4c96-ae27-339357ba793d)
+    (uuid 59c3fe3e-9e3e-4152-ad26-4f63b29ba6b3)
     (property "Reference" "#PWR0140" (id 0) (at 58.42 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -680,7 +680,7 @@
 
   (symbol (lib_id "power:+5V") (at 59.69 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid 7c323ccc-097c-43d6-9d33-75a511366fcc)
+    (uuid 1cbec2d5-6683-429a-87db-cf4165fa23ca)
     (property "Reference" "#PWR0110" (id 0) (at 59.69 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -696,7 +696,7 @@
 
   (symbol (lib_id "power:+5V") (at 68.58 68.58 0)
     (in_bom yes) (on_board yes)
-    (uuid 3f6aa989-4881-4486-99ad-22b1353efab7)
+    (uuid 4e3cfebc-81dc-4486-af22-93ffaed4030c)
     (property "Reference" "#PWR0145" (id 0) (at 68.58 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -712,7 +712,7 @@
 
   (symbol (lib_id "power:+5V") (at 69.85 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid 0480647f-ee73-407e-8234-4e027904d588)
+    (uuid e60dcad6-cbd4-4e51-a97a-c6b1e86e0007)
     (property "Reference" "#PWR0120" (id 0) (at 69.85 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -728,7 +728,7 @@
 
   (symbol (lib_id "power:+5V") (at 83.82 55.88 0)
     (in_bom yes) (on_board yes)
-    (uuid 60fd015c-134a-4804-9d2b-9df145e749e8)
+    (uuid 60801ea0-8954-4188-965b-1ca8b20bb459)
     (property "Reference" "#PWR0141" (id 0) (at 83.82 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -744,7 +744,7 @@
 
   (symbol (lib_id "power:+5V") (at 85.09 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid c52adc5d-b2e5-4bc1-813f-258de6499103)
+    (uuid 02d00555-4204-4a4b-9ebf-d86ba1ed0b7d)
     (property "Reference" "#PWR0111" (id 0) (at 85.09 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -760,7 +760,7 @@
 
   (symbol (lib_id "power:+5V") (at 93.98 68.58 0)
     (in_bom yes) (on_board yes)
-    (uuid eda93652-f1d8-42fc-aafe-2daaa27edc9a)
+    (uuid 39ed8da5-316d-4d3b-87b9-8b75bf49831f)
     (property "Reference" "#PWR0146" (id 0) (at 93.98 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -776,7 +776,7 @@
 
   (symbol (lib_id "power:+5V") (at 95.25 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid 3bdfd646-d8d5-4cb0-b0e0-a7e3e6907486)
+    (uuid 43b5ec7e-ad1a-4d0d-9222-c5bf56136e6c)
     (property "Reference" "#PWR0121" (id 0) (at 95.25 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -792,7 +792,7 @@
 
   (symbol (lib_id "power:+5V") (at 109.22 55.88 0)
     (in_bom yes) (on_board yes)
-    (uuid 9f9bd89e-7ca8-4ac3-b4d8-ced3456ad65d)
+    (uuid 16c4b37a-b319-444e-8573-5aa2d07d6b2f)
     (property "Reference" "#PWR0142" (id 0) (at 109.22 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -808,7 +808,7 @@
 
   (symbol (lib_id "power:+5V") (at 110.49 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid 94aab373-5dea-432b-bbd7-8885f8832550)
+    (uuid a1acc551-769e-4fec-b4ba-4b8c27c149a7)
     (property "Reference" "#PWR0112" (id 0) (at 110.49 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -824,7 +824,7 @@
 
   (symbol (lib_id "power:+5V") (at 119.38 68.58 0)
     (in_bom yes) (on_board yes)
-    (uuid b6ff0ce4-0c3e-468d-875d-a209f6b793f4)
+    (uuid 4e7b31f8-91eb-4d36-9150-b01dd3fd271b)
     (property "Reference" "#PWR0147" (id 0) (at 119.38 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -840,7 +840,7 @@
 
   (symbol (lib_id "power:+5V") (at 120.65 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid 3b9ea772-5098-4107-9931-5dde040ed0b0)
+    (uuid c2ed0bf0-bee2-4b76-a424-10056a73598c)
     (property "Reference" "#PWR0122" (id 0) (at 120.65 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -856,7 +856,7 @@
 
   (symbol (lib_id "power:+5V") (at 135.89 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid a7e5629b-31b3-4810-b278-3901ae4dbc9c)
+    (uuid dd8db255-c74b-4f83-af97-5e0714b1c8f1)
     (property "Reference" "#PWR0113" (id 0) (at 135.89 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -872,7 +872,7 @@
 
   (symbol (lib_id "power:+5V") (at 135.89 55.88 0)
     (in_bom yes) (on_board yes)
-    (uuid 86cae14d-703f-49d8-b9dd-227b017132c4)
+    (uuid 4e25d21f-3993-473c-992a-9e6465d734ba)
     (property "Reference" "#PWR0143" (id 0) (at 135.89 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -888,7 +888,7 @@
 
   (symbol (lib_id "power:+5V") (at 146.05 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid d2f47005-a29f-4754-92e1-45373dbe05bd)
+    (uuid deb06c21-d84f-481f-bd9b-136b1dd74e3b)
     (property "Reference" "#PWR0123" (id 0) (at 146.05 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -904,7 +904,7 @@
 
   (symbol (lib_id "power:+5V") (at 146.05 68.58 0)
     (in_bom yes) (on_board yes)
-    (uuid de104c66-7249-4733-8673-a7cde0e5d535)
+    (uuid e65f927d-bc97-4f91-b7e1-fbaa1862083c)
     (property "Reference" "#PWR0148" (id 0) (at 146.05 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -920,7 +920,7 @@
 
   (symbol (lib_id "power:+5V") (at 161.29 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid 5aef560c-0f05-4abc-9c66-e9bc31aab7f2)
+    (uuid 6f077c24-c4eb-4bb2-b467-952b3d1a720a)
     (property "Reference" "#PWR0114" (id 0) (at 161.29 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -936,7 +936,7 @@
 
   (symbol (lib_id "power:+5V") (at 171.45 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid 08fa3aaf-f6f9-4343-b27c-6137e4342c09)
+    (uuid 590f5dc8-4f3a-4e5e-b841-b54644753825)
     (property "Reference" "#PWR0124" (id 0) (at 171.45 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -952,7 +952,7 @@
 
   (symbol (lib_id "power:+5V") (at 186.69 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid edec5e85-6528-4881-b86c-f2adcd4f8d7e)
+    (uuid f7605739-80f3-4f53-9d88-af33d2c4adf9)
     (property "Reference" "#PWR0115" (id 0) (at 186.69 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -968,7 +968,7 @@
 
   (symbol (lib_id "power:+5V") (at 196.85 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid af4b9713-6110-461d-aa49-b8229415f75c)
+    (uuid 69c54848-5fd0-4067-ba64-5506e5fca8b8)
     (property "Reference" "#PWR0125" (id 0) (at 196.85 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -984,7 +984,7 @@
 
   (symbol (lib_id "power:+5V") (at 212.09 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid c361642a-7fa8-4f14-81aa-5e794659ef55)
+    (uuid 135a0ec5-e270-4489-9b4d-3999fd2e445b)
     (property "Reference" "#PWR0116" (id 0) (at 212.09 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1000,7 +1000,7 @@
 
   (symbol (lib_id "power:+5V") (at 222.25 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid d4899282-66f4-4136-ab16-413cea16e9ba)
+    (uuid daeb7cfb-477b-4336-9f0c-e5f8188416ca)
     (property "Reference" "#PWR0126" (id 0) (at 222.25 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1016,7 +1016,7 @@
 
   (symbol (lib_id "power:+5V") (at 237.49 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid 216c8913-fdd8-4c05-b8e6-ada80d33450f)
+    (uuid fadeb7a1-a363-417d-a60c-dcf2bc3da38e)
     (property "Reference" "#PWR0117" (id 0) (at 237.49 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1032,7 +1032,7 @@
 
   (symbol (lib_id "power:+5V") (at 247.65 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid 3059c913-9fdc-4deb-9b65-d03219c6bf18)
+    (uuid aa36d82b-64e2-4196-979a-414c5171e767)
     (property "Reference" "#PWR0127" (id 0) (at 247.65 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1048,7 +1048,7 @@
 
   (symbol (lib_id "power:+5V") (at 262.89 19.05 0)
     (in_bom yes) (on_board yes)
-    (uuid 9e0f2af1-8651-4fbe-9a8f-45db3a8d48e6)
+    (uuid 0449a12c-fa63-4943-96fe-cda880efdf8c)
     (property "Reference" "#PWR0118" (id 0) (at 262.89 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1064,7 +1064,7 @@
 
   (symbol (lib_id "power:+5V") (at 273.05 31.75 0)
     (in_bom yes) (on_board yes)
-    (uuid b0356631-f4d0-4753-97fd-b3b4e5be93be)
+    (uuid 59f2ee6b-af54-4f19-a47c-eda4920139e7)
     (property "Reference" "#PWR0128" (id 0) (at 273.05 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1080,7 +1080,7 @@
 
   (symbol (lib_id "power:GND") (at 33.02 73.66 0)
     (in_bom yes) (on_board yes)
-    (uuid 06460e79-dc6c-42f2-b319-f10281256d31)
+    (uuid 0e8c26e2-2832-49b6-8ae3-f40ef72cf8fb)
     (property "Reference" "#PWR0149" (id 0) (at 33.02 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1096,7 +1096,7 @@
 
   (symbol (lib_id "power:GND") (at 34.29 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid ccaf98da-c0bb-49ca-820a-01431815fa16)
+    (uuid d8ee737d-e17b-4cf2-84d4-508f25d1e35f)
     (property "Reference" "#PWR0129" (id 0) (at 34.29 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1112,7 +1112,7 @@
 
   (symbol (lib_id "power:GND") (at 58.42 73.66 0)
     (in_bom yes) (on_board yes)
-    (uuid 43262c78-6cd5-4bbb-817c-293ba09e1dde)
+    (uuid 7ed9ef42-bed9-4823-a4dc-fb4daf036c30)
     (property "Reference" "#PWR0150" (id 0) (at 58.42 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1128,7 +1128,7 @@
 
   (symbol (lib_id "power:GND") (at 59.69 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid abf7f043-ba4b-4c05-811b-9058030fb48a)
+    (uuid 6bad19f7-0deb-41b0-9d78-b47a80b0b7fe)
     (property "Reference" "#PWR0130" (id 0) (at 59.69 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1144,7 +1144,7 @@
 
   (symbol (lib_id "power:GND") (at 83.82 73.66 0)
     (in_bom yes) (on_board yes)
-    (uuid 6fdd58a9-f860-4e51-9eec-c7c1dfaa6a89)
+    (uuid be1d0c01-3e2c-42b2-9474-5077288c6c82)
     (property "Reference" "#PWR0151" (id 0) (at 83.82 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1160,7 +1160,7 @@
 
   (symbol (lib_id "power:GND") (at 85.09 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid df41e1a3-e62a-41b4-ae28-76744d055e62)
+    (uuid 40b93f00-9a99-4a42-b754-3a6d5cc4cc13)
     (property "Reference" "#PWR0131" (id 0) (at 85.09 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1176,7 +1176,7 @@
 
   (symbol (lib_id "power:GND") (at 109.22 73.66 0)
     (in_bom yes) (on_board yes)
-    (uuid 303d6e80-db78-4f87-94ad-4cf4430274c2)
+    (uuid 361a2603-0ba8-43b7-88cf-ae65e4af7bbc)
     (property "Reference" "#PWR0152" (id 0) (at 109.22 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1192,7 +1192,7 @@
 
   (symbol (lib_id "power:GND") (at 110.49 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid 9e57b393-1e6d-4d07-a34f-c58abba5716c)
+    (uuid 785b895f-6339-4a83-a69a-0fccfeb82155)
     (property "Reference" "#PWR0132" (id 0) (at 110.49 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1208,7 +1208,7 @@
 
   (symbol (lib_id "power:GND") (at 135.89 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid 103c3ec0-b006-4baa-a0d5-ac733393bf4a)
+    (uuid b54f1836-83a6-4667-9963-f22f7db6fc4a)
     (property "Reference" "#PWR0133" (id 0) (at 135.89 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1224,7 +1224,7 @@
 
   (symbol (lib_id "power:GND") (at 135.89 73.66 0)
     (in_bom yes) (on_board yes)
-    (uuid 37f284df-82a7-4110-8064-10269b8bf6da)
+    (uuid 4dfd62d0-2636-42d7-be8f-0dd4188fde9e)
     (property "Reference" "#PWR0153" (id 0) (at 135.89 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1240,7 +1240,7 @@
 
   (symbol (lib_id "power:GND") (at 161.29 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid c75d38ed-db32-4ad7-bd01-805552c07858)
+    (uuid bc05b937-d2c3-4db5-83da-6ee0c8c0030f)
     (property "Reference" "#PWR0134" (id 0) (at 161.29 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1256,7 +1256,7 @@
 
   (symbol (lib_id "power:GND") (at 186.69 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid d2adb9b8-13fd-47f9-ad4b-81ab250f08c3)
+    (uuid 70435b29-87cb-4b3c-9c78-c35c71313cb6)
     (property "Reference" "#PWR0135" (id 0) (at 186.69 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1272,7 +1272,7 @@
 
   (symbol (lib_id "power:GND") (at 212.09 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid 006c31d7-8f32-4c8b-bc47-671fc5671af7)
+    (uuid 3546e154-8830-4707-8b65-753d5683a0c8)
     (property "Reference" "#PWR0136" (id 0) (at 212.09 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1288,7 +1288,7 @@
 
   (symbol (lib_id "power:GND") (at 237.49 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid 3adfb410-8cb6-4cff-83c2-2fb5f91db921)
+    (uuid 1e6d736d-490c-4337-9602-6c2d3a2aa9a7)
     (property "Reference" "#PWR0137" (id 0) (at 237.49 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1304,7 +1304,7 @@
 
   (symbol (lib_id "power:GND") (at 262.89 36.83 0)
     (in_bom yes) (on_board yes)
-    (uuid c8321c4e-56eb-42cb-82da-22cf6c97c70d)
+    (uuid f90230fb-4365-46b0-9caa-a2aafb829538)
     (property "Reference" "#PWR0138" (id 0) (at 262.89 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1320,7 +1320,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 38.1 71.12 90)
     (in_bom yes) (on_board yes)
-    (uuid dc34d2a4-e5ab-43af-8e64-17d67790c156)
+    (uuid 9f78aa79-0cd5-437e-a586-ba81bb785054)
     (property "Reference" "C47" (id 0) (at 38.1 76.7777 90))
     (property "Value" "100nF" (id 1) (at 38.1 73.996 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 38.1 71.12 0)
@@ -1335,7 +1335,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 39.37 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid f6a75cb3-35a8-4db2-9347-a4da710a7832)
+    (uuid fa9cba5e-9813-42b4-9bea-9c701792efd7)
     (property "Reference" "C37" (id 0) (at 39.37 39.9477 90))
     (property "Value" "100nF" (id 1) (at 39.37 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 39.37 34.29 0)
@@ -1350,7 +1350,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 63.5 71.12 90)
     (in_bom yes) (on_board yes)
-    (uuid a1774631-2ddd-4119-b4e0-776971f45f59)
+    (uuid 2f34d71b-5bdd-4327-8502-e1f2f83b6e95)
     (property "Reference" "C48" (id 0) (at 63.5 76.7777 90))
     (property "Value" "100nF" (id 1) (at 63.5 73.996 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 63.5 71.12 0)
@@ -1365,7 +1365,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 64.77 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid 2edf73aa-b787-4119-8bb2-0829ebe45403)
+    (uuid daad68f3-b872-4b16-b632-da6e7e99b82c)
     (property "Reference" "C38" (id 0) (at 64.77 39.9477 90))
     (property "Value" "100nF" (id 1) (at 64.77 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 64.77 34.29 0)
@@ -1380,7 +1380,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 88.9 71.12 90)
     (in_bom yes) (on_board yes)
-    (uuid 70e76664-3b0c-4fcf-8e05-9e980fe91b7c)
+    (uuid 32a5b285-fef1-44d3-8c44-ac1a934fba91)
     (property "Reference" "C49" (id 0) (at 88.9 76.7777 90))
     (property "Value" "100nF" (id 1) (at 88.9 73.996 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 88.9 71.12 0)
@@ -1395,7 +1395,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 90.17 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid cb50252a-0096-462f-93a9-86c7ca0a938d)
+    (uuid ff049c9a-c041-465d-b0aa-0414f79f3c13)
     (property "Reference" "C39" (id 0) (at 90.17 39.9477 90))
     (property "Value" "100nF" (id 1) (at 90.17 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 90.17 34.29 0)
@@ -1410,7 +1410,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 114.3 71.12 90)
     (in_bom yes) (on_board yes)
-    (uuid c7ce91c6-5f1d-4ce9-b098-aa660c747f14)
+    (uuid 0927a18a-14c1-4af1-ae03-76e90cfdf0e5)
     (property "Reference" "C50" (id 0) (at 114.3 76.7777 90))
     (property "Value" "100nF" (id 1) (at 114.3 73.996 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 114.3 71.12 0)
@@ -1425,7 +1425,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 115.57 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid adfb1f4e-c598-4e88-8deb-0e4fcf12107c)
+    (uuid eced6464-ee03-40d8-a039-d22e6fb7dbd6)
     (property "Reference" "C40" (id 0) (at 115.57 39.9477 90))
     (property "Value" "100nF" (id 1) (at 115.57 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 115.57 34.29 0)
@@ -1440,7 +1440,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 140.97 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid ef49d794-1167-4117-bd39-41fd35215d75)
+    (uuid c5ad50e6-8ec7-418e-9353-28c6ee860217)
     (property "Reference" "C41" (id 0) (at 140.97 39.9477 90))
     (property "Value" "100nF" (id 1) (at 140.97 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 140.97 34.29 0)
@@ -1455,7 +1455,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 140.97 71.12 90)
     (in_bom yes) (on_board yes)
-    (uuid 4900478c-8592-495d-8d4d-0b0a4034d82d)
+    (uuid 9a21a443-1039-42bf-8946-5d14152d45a4)
     (property "Reference" "C51" (id 0) (at 140.97 76.7777 90))
     (property "Value" "100nF" (id 1) (at 140.97 73.996 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 140.97 71.12 0)
@@ -1470,7 +1470,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 166.37 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid e11267f7-80dd-4d90-a451-e48b5fe55329)
+    (uuid c2c741c9-323a-4e93-9f7e-a0e6bf587942)
     (property "Reference" "C42" (id 0) (at 166.37 39.9477 90))
     (property "Value" "100nF" (id 1) (at 166.37 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 166.37 34.29 0)
@@ -1485,7 +1485,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 191.77 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid a8061cbd-d285-49b6-a215-ef61399b1a25)
+    (uuid b059fabb-9dd5-4006-9874-d5f9e711062b)
     (property "Reference" "C43" (id 0) (at 191.77 39.9477 90))
     (property "Value" "100nF" (id 1) (at 191.77 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 191.77 34.29 0)
@@ -1500,7 +1500,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 217.17 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid 5449aae9-e421-442f-b08f-0c23d22fb14b)
+    (uuid fadf95af-1361-4d49-8af8-54949fff24eb)
     (property "Reference" "C44" (id 0) (at 217.17 39.9477 90))
     (property "Value" "100nF" (id 1) (at 217.17 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 217.17 34.29 0)
@@ -1515,7 +1515,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 242.57 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid 7d4d7633-65b3-471b-9e03-631ae53cdf38)
+    (uuid 3fe1c3ef-fc81-4300-ac4f-7ad66ef290af)
     (property "Reference" "C45" (id 0) (at 242.57 39.9477 90))
     (property "Value" "100nF" (id 1) (at 242.57 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 242.57 34.29 0)
@@ -1530,7 +1530,7 @@
 
   (symbol (lib_id "Device:C_Small") (at 267.97 34.29 90)
     (in_bom yes) (on_board yes)
-    (uuid fc3e29df-46cc-404f-94eb-04b5fff8a9de)
+    (uuid 64557ee4-b069-49e0-b3b0-9abb96733a60)
     (property "Reference" "C46" (id 0) (at 267.97 39.9477 90))
     (property "Value" "100nF" (id 1) (at 267.97 37.166 90))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 267.97 34.29 0)
@@ -1545,7 +1545,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 33.02 63.5 0)
     (in_bom yes) (on_board yes)
-    (uuid 6af1fb47-561f-456c-9705-9f4ca3440a4e)
+    (uuid 98459707-64b4-4518-b7fd-1aa9d51723eb)
     (property "Reference" "D119" (id 0) (at 36.5761 54.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1569,7 +1569,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 34.29 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid f056cecf-3333-4a94-9050-8e9bf975af51)
+    (uuid 6a1afb96-9ae2-440b-9549-77a0126eab44)
     (property "Reference" "D109" (id 0) (at 37.8461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1593,7 +1593,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 58.42 63.5 0)
     (in_bom yes) (on_board yes)
-    (uuid ab23c9ce-4bf4-4842-87d5-4179c07e9526)
+    (uuid a2759c13-c0b1-41a0-ab04-5a9beaccd259)
     (property "Reference" "D120" (id 0) (at 61.9761 54.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1617,7 +1617,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 59.69 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid f3a83fa0-1b75-483f-ad22-46f543f1f7c0)
+    (uuid c0d9ea23-1659-40e8-bcf9-6c7ddf12e7ae)
     (property "Reference" "D110" (id 0) (at 63.2461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1641,7 +1641,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 83.82 63.5 0)
     (in_bom yes) (on_board yes)
-    (uuid c59ae4bc-7936-4fe9-994d-6c7548c63f6c)
+    (uuid 835eeca3-cd7e-4065-b231-e6a8bc1b4b2a)
     (property "Reference" "D121" (id 0) (at 87.3761 54.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1665,7 +1665,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 85.09 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid dd1dff91-111e-4347-a3c7-286836b2b8d9)
+    (uuid f6ce7b7b-80ad-4514-a04d-aa2b05d46606)
     (property "Reference" "D111" (id 0) (at 88.6461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1689,7 +1689,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 109.22 63.5 0)
     (in_bom yes) (on_board yes)
-    (uuid 84a33efa-74c6-4dae-a4f5-27761ba78a81)
+    (uuid 23b6ce07-86f7-430b-bedd-be72ad8f8da3)
     (property "Reference" "D122" (id 0) (at 112.7761 54.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1713,7 +1713,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 110.49 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid e08ff656-d22d-46a2-86ea-ffd2a385ec0d)
+    (uuid 01301464-0e22-4bbf-b24a-af494fc53ee0)
     (property "Reference" "D112" (id 0) (at 114.0461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1737,7 +1737,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 135.89 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid ed461bd7-1055-436b-b523-62d0cd35eb7f)
+    (uuid c1ca7d73-c5b7-4daa-bd0d-fa1303cf8c54)
     (property "Reference" "D113" (id 0) (at 139.4461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1761,7 +1761,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 135.89 63.5 0)
     (in_bom yes) (on_board yes)
-    (uuid 5e77437f-3711-4a2f-8c92-c9a41351aa58)
+    (uuid 92279429-3537-4156-babc-76a0cbb31968)
     (property "Reference" "D123" (id 0) (at 139.4461 54.7306 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1785,7 +1785,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 161.29 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid 568882a6-edfe-4fbc-863f-9f65cdf41493)
+    (uuid e6845ebf-5b7f-47b7-ab3c-511ab3a3d02d)
     (property "Reference" "D114" (id 0) (at 164.8461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1809,7 +1809,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 186.69 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid 39ee2733-9162-4eec-96c3-d8b8d4326824)
+    (uuid 7ffbbf5a-2360-4bcc-9191-ec9e0d70300a)
     (property "Reference" "D115" (id 0) (at 190.2461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1833,7 +1833,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 212.09 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid bece6615-8337-4bbf-9882-6a6091f1e155)
+    (uuid a72d5222-5038-470a-a113-873f625ec074)
     (property "Reference" "D116" (id 0) (at 215.6461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1857,7 +1857,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 237.49 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid 4c9d8b3e-aaa1-453c-ba9f-d8a20301e169)
+    (uuid 132624f1-430b-4631-bbf1-bc15c15c9c29)
     (property "Reference" "D117" (id 0) (at 241.0461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -1881,7 +1881,7 @@
 
   (symbol (lib_id "chonc60:SK6812MINI-E") (at 262.89 26.67 0)
     (in_bom yes) (on_board yes)
-    (uuid 840b77d7-3e02-43c0-b46b-36f72012ad6f)
+    (uuid 2e5a37fe-8bb3-4401-863e-ad0ed6c2d1b2)
     (property "Reference" "D118" (id 0) (at 266.4461 17.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
