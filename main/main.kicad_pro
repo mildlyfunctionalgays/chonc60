@@ -117,7 +117,8 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.5
       ],
       "via_dimensions": [
         {
@@ -431,7 +432,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
@@ -440,6 +442,39 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "ee41ca73-d151-4144-b850-8797f485479b",
+      ""
+    ],
+    [
+      "ec3d263b-006d-49a2-b614-948f8ccedd34",
+      "Keyswitches"
+    ],
+    [
+      "74378d3c-a03d-416b-9027-b1ba33a9ea3a",
+      "Row 0"
+    ],
+    [
+      "efbc566c-3afc-43a6-99f5-f98b5e39ad42",
+      "Row 4"
+    ],
+    [
+      "32478c4a-34ea-496f-90ac-08b7a83ec437",
+      "Row 1"
+    ],
+    [
+      "f1815ebc-9e98-4ea9-a119-19a930263b66",
+      "Row 2"
+    ],
+    [
+      "f7068ff2-6269-4b95-b653-94e1f2bfea44",
+      "Row 3"
+    ],
+    [
+      "c8339d3f-2a0b-4224-aaa5-c6a666f3eb7d",
+      "Row 5"
+    ]
+  ],
   "text_variables": {}
 }
