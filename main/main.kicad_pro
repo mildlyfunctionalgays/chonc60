@@ -379,11 +379,6 @@
         "nets": [
           "/Row 0/LED_IN",
           "/Row 0/LED_OUT",
-          "/Row 1/LED_OUT",
-          "/Row 2/LED_OUT",
-          "/Row 3/LED_OUT",
-          "/Row 4/LED_OUT",
-          "/Row 5/LED_OUT",
           "Net-(D101-Pad2)",
           "Net-(D102-Pad2)",
           "Net-(D103-Pad2)",
