@@ -69,6 +69,7 @@
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
+        "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -87,6 +88,7 @@
         "silk_over_copper": "error",
         "silk_overlap": "error",
         "skew_out_of_range": "error",
+        "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
         "track_width": "error",
@@ -312,6 +314,7 @@
     ],
     "rule_severities": {
       "bus_definition_conflict": "error",
+      "bus_entry_needed": "error",
       "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
@@ -485,7 +488,7 @@
       }
     ],
     "meta": {
-      "version": 0
+      "version": 2
     },
     "net_colors": {
       "Net-(D1-Pad2)": "rgb(0, 0, 0)"
@@ -503,6 +506,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
+    "annotate_start_num": 0,
     "drawing": {
       "default_bus_thickness": 12.0,
       "default_junction_size": 40.0,
@@ -516,16 +520,19 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
+      "label_size_ratio": 0.3,
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.3
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_format_name": "",
     "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
       "meta": {
         "version": 0
       },
@@ -557,20 +564,20 @@
       "Row 4"
     ],
     [
-      "32478c4a-34ea-496f-90ac-08b7a83ec437",
-      "Row 1"
-    ],
-    [
-      "f1815ebc-9e98-4ea9-a119-19a930263b66",
-      "Row 2"
+      "c8339d3f-2a0b-4224-aaa5-c6a666f3eb7d",
+      "Row 5"
     ],
     [
       "f7068ff2-6269-4b95-b653-94e1f2bfea44",
       "Row 3"
     ],
     [
-      "c8339d3f-2a0b-4224-aaa5-c6a666f3eb7d",
-      "Row 5"
+      "f1815ebc-9e98-4ea9-a119-19a930263b66",
+      "Row 2"
+    ],
+    [
+      "32478c4a-34ea-496f-90ac-08b7a83ec437",
+      "Row 1"
     ]
   ],
   "text_variables": {}
