@@ -5857,244 +5857,244 @@
       (reference "R10") (unit 1) (value "100kΩ") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/733f5b13-62e6-4110-b0ff-d791b35bddc6"
-      (reference "SW1") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW1") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/1cf6e4db-8ab1-459b-a515-6b17c5221c68"
-      (reference "SW2") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW2") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/99e146a6-5ef3-4cfb-993f-e112ce8aeed2"
-      (reference "SW3") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW3") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/c384a4ef-6b90-4d0e-a39f-ae345f0452e0"
-      (reference "SW4") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW4") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/47675e37-761f-4531-9fca-bd5071abe561"
-      (reference "SW5") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW5") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/d0cd602b-37ae-485f-909b-36c973a8ca0b"
-      (reference "SW6") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW6") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/b1ebea4e-0381-488e-b50f-d9ea93bb326f"
-      (reference "SW7") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW7") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/7605bf4e-30ef-42e4-b40d-7bb9e1807269"
-      (reference "SW8") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW8") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/25655490-4bf3-4cab-84e8-477521c594cc"
-      (reference "SW9") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW9") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/91267bb5-c631-47a6-be6c-3927570bb772"
-      (reference "SW10") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW10") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/be46c8dd-ed68-47d1-b20d-b0f6e0b878c0"
-      (reference "SW11") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW11") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/915205dd-9267-4785-b0b7-88085f62909c"
-      (reference "SW12") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW12") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/bf001ec2-c136-44ee-a0a2-cfceac66cd05"
-      (reference "SW13") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW13") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/57369eaa-c84f-49a5-98d3-44dd91096cb8"
-      (reference "SW14") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW14") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/97b7f758-0ab2-43af-ace3-00f634431448"
-      (reference "SW15") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW15") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/f49288b7-6b92-468b-b17f-906330a51640"
-      (reference "SW16") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW16") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/6cc8ee42-3a5d-4794-bd43-4124ddf379d6"
-      (reference "SW17") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW17") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/5ecc0e9b-6202-46a5-85de-15e9095d1c28"
-      (reference "SW18") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW18") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/8891d3c3-36d1-49e4-86f7-540c1e9f97c7"
-      (reference "SW19") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW19") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/784e830b-ea95-4448-9001-1d6088fb9e51"
-      (reference "SW20") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW20") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/f10e4932-c98a-49d8-a5c8-f68dc4cb7fad"
-      (reference "SW21") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW21") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/d8e0c5db-0110-4361-82e6-12e2341e887a"
-      (reference "SW22") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW22") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/451ea574-8aa7-4397-b27d-996d6b3acdff"
-      (reference "SW23") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW23") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/1eeb9a8e-8512-42ba-a510-8211326bc04d"
-      (reference "SW24") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW24") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/3100c35e-2128-4f43-8c91-1b1e4e79b492"
-      (reference "SW25") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW25") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/7b78b2b2-0c05-4b46-aecf-7e89359ac7cf"
-      (reference "SW26") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW26") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/5d39e67b-8e38-4357-b8ba-0258976a4820"
-      (reference "SW27") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW27") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/4b6fcd33-3551-47fd-9ad1-598804827a45"
-      (reference "SW28") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW28") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/62ed350a-1ce4-451b-84c9-60f4c419e82b"
-      (reference "SW29") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW29") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/b0fa9a19-de62-4c68-82e4-5fcecb071327"
-      (reference "SW30") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW30") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/659966b7-8abd-4b82-afde-288afeae9188"
-      (reference "SW31") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW31") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/219ad213-7630-4c6f-aeba-a492cafd325c"
-      (reference "SW32") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW32") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/1d0c8089-5c5a-4a42-99fe-983ac4af950a"
-      (reference "SW33") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW33") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/f0d697f4-b2e3-41f8-9169-63952daaea45"
-      (reference "SW34") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW34") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/00ff67bd-bf41-49e2-be8f-3eb5756c8fce"
-      (reference "SW35") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW35") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/70903da7-e1a2-4cc5-b973-e74359a9c467"
-      (reference "SW36") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW36") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/23a03aa3-9dab-4f52-a4c8-6064253892c1"
-      (reference "SW37") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW37") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/3edf15ec-97f3-4031-9ca5-b645ea5a10f1"
-      (reference "SW38") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW38") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/b754de79-1930-496f-bd66-658e33f624ba"
-      (reference "SW39") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW39") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/7d04a368-4394-47d2-9c95-8cd169108ce7"
-      (reference "SW40") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW40") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/70d6b748-cc37-489f-9801-7676b6056946"
-      (reference "SW41") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW41") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/f0290fb1-a414-41b6-a862-429a535b532f"
-      (reference "SW42") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW42") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/8bc12c03-6d00-4aea-aa6b-be81323dd224"
-      (reference "SW43") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW43") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/1da06263-b585-49bd-8617-d9224706e0a1"
-      (reference "SW44") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW44") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/35146546-dcc3-4cf0-adeb-4015d2d467d5"
-      (reference "SW45") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW45") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/968f0728-582d-4b15-aa81-146b7a78268a"
-      (reference "SW46") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW46") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/ad8fae00-c372-4cbe-8ad3-d51f2c50f6c5"
-      (reference "SW47") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW47") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/f20a130e-2c5f-473d-8c12-ab014d706851"
-      (reference "SW48") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW48") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/c91726fa-1fff-4ed2-8af7-47dc9a9eda60"
-      (reference "SW49") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW49") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/fa162ca0-2c70-43f2-a60f-d842e65a2af5"
-      (reference "SW50") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW50") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/a6668dbb-eac4-45a8-9452-f78cd685adfc"
-      (reference "SW51") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW51") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/f4f2dc51-3edc-4d7b-8757-e68556537f29"
-      (reference "SW52") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW52") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/63969ce7-35f1-45f7-bb3a-43942b06fac5"
-      (reference "SW53") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW53") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/1a254c03-d8c1-4e64-9091-3ac33fa2ff45"
-      (reference "SW54") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW54") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/18dda0d3-75f1-4a12-9858-948072855059"
-      (reference "SW55") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW55") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/b4f1ef5f-51a2-43ef-a614-82ea2b516bb6"
-      (reference "SW56") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW56") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/3830c1ff-bebf-49a7-9f04-04b0a07b4efe"
-      (reference "SW57") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW57") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/e05d5441-c31c-4ab9-b329-086310a6ff19"
-      (reference "SW58") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW58") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/613e4702-24d0-4f1e-9a1e-a6afc32914a6"
-      (reference "SW59") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW59") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/a8d61aed-a733-4d53-a9b8-c3900d9c3901"
-      (reference "SW60") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW60") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/61d041a0-842d-4829-81fd-4945e0c5254e"
-      (reference "SW61") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW61") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/7454b3b8-a750-4a38-b3a9-d778772acbf6"
-      (reference "SW62") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW62") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/1b86b70d-d1a0-4267-9dcc-78a6bc93f493"
-      (reference "SW63") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW63") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/211124e8-9c3b-4f27-a35a-b1ff01718217"
-      (reference "SW64") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW64") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/72a50417-83be-40cb-951c-96306154d4f2"
-      (reference "SW65") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW65") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/9589de76-001d-45e4-91a0-0f6583fb147b"
-      (reference "SW66") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW66") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/dd51ba74-75c6-4af4-8a60-c1998f06d8d1"
-      (reference "SW67") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW67") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/9878abfe-f9cb-4f7d-9216-e0e4a5ec31e0"
-      (reference "SW68") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW68") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/e66c95de-1edd-49f3-a407-7f76097f6529"
-      (reference "SW69") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW69") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/0648bf88-1933-459b-8611-8bf8c614c565"
-      (reference "SW70") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW70") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/6508ca80-1453-4202-9a5b-35cc325d49ba"
-      (reference "SW71") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW71") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/50fa8c0b-6a41-47b8-9055-eeb03c2b13e0"
-      (reference "SW72") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW72") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/5f802432-feaf-43e3-bba1-e9ba1b0b6903"
-      (reference "SW73") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW73") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/016deff5-47df-4c9d-b47a-8f3169e1bc3f"
-      (reference "SW74") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW74") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/b1a8086b-afd7-4cd8-8e15-5721a99af11e"
-      (reference "SW75") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW75") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/459a4456-6238-49cb-b9a3-bb676b408250"
-      (reference "SW76") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW76") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/8680c118-b5c4-47cf-9f60-a22efcd0f31a"
-      (reference "SW77") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW77") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/cf1a4f73-9f52-41e7-bd36-a88f45d4d920"
-      (reference "SW78") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW78") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/af035adc-b576-40fc-9951-402fc44faac9"
-      (reference "SW79") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW79") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ec3d263b-006d-49a2-b614-948f8ccedd34/65bac8fe-03b8-402a-9d06-82ba8355c9b0"
-      (reference "SW80") (unit 1) (value "SW_Push_45deg") (footprint "keyswitches:Kailh_socket_MX")
+      (reference "SW80") (unit 1) (value "SW_Push_45deg") (footprint "chonc60:SW_PG1350_PG1353")
     )
     (path "/ddf71a7c-ab6a-4635-8f8e-c18d7515e0ec"
       (reference "TP1") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")

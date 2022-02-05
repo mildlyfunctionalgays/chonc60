@@ -391,7 +391,6 @@
           "Net-(D107-Pad2)",
           "Net-(D108-Pad2)",
           "Net-(D109-Pad2)",
-          "Net-(D110-Pad2)",
           "Net-(D111-Pad2)",
           "Net-(D112-Pad2)",
           "Net-(D113-Pad2)",
@@ -401,7 +400,6 @@
           "Net-(D118-Pad2)",
           "Net-(D119-Pad2)",
           "Net-(D120-Pad2)",
-          "Net-(D121-Pad2)",
           "Net-(D122-Pad2)",
           "Net-(D123-Pad2)",
           "Net-(D124-Pad2)",
@@ -413,7 +411,6 @@
           "Net-(D131-Pad2)",
           "Net-(D132-Pad2)",
           "Net-(D133-Pad2)",
-          "Net-(D134-Pad2)",
           "Net-(D135-Pad2)",
           "Net-(D136-Pad2)",
           "Net-(D137-Pad2)",
@@ -426,7 +423,6 @@
           "Net-(D145-Pad2)",
           "Net-(D146-Pad2)",
           "Net-(D147-Pad2)",
-          "Net-(D148-Pad2)",
           "Net-(D149-Pad2)",
           "Net-(D150-Pad2)",
           "Net-(D151-Pad2)",
@@ -438,24 +434,7 @@
           "Net-(D158-Pad2)",
           "Net-(D159-Pad2)",
           "Net-(D160-Pad2)",
-          "Net-(D161-Pad2)",
-          "Net-(D162-Pad2)",
-          "Net-(D163-Pad2)",
-          "Net-(D164-Pad2)",
-          "Net-(D165-Pad2)",
-          "Net-(D166-Pad2)",
-          "Net-(D167-Pad2)",
-          "Net-(D168-Pad2)",
-          "Net-(D170-Pad2)",
-          "Net-(D171-Pad2)",
-          "Net-(D172-Pad2)",
-          "Net-(D173-Pad2)",
-          "Net-(D174-Pad2)",
-          "Net-(D175-Pad2)",
-          "Net-(D176-Pad2)",
-          "Net-(D177-Pad2)",
-          "Net-(D178-Pad2)",
-          "Net-(D179-Pad2)"
+          "Net-(D161-Pad2)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -490,9 +469,7 @@
     "meta": {
       "version": 2
     },
-    "net_colors": {
-      "Net-(D1-Pad2)": "rgb(0, 0, 0)"
-    }
+    "net_colors": null
   },
   "pcbnew": {
     "last_paths": {
