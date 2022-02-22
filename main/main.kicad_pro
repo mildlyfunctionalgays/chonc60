@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.508
+          "45_degree_only": true,
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.25,
         0.5
       ],
       "via_dimensions": [
@@ -456,13 +457,17 @@
         "nets": [
           "+3V3",
           "+5V",
+          "/BOOST_5V",
+          "/VBAT",
+          "/VIN",
+          "/VUSB",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.5,
+        "via_diameter": 1.0,
+        "via_drill": 0.5,
         "wire_width": 6.0
       }
     ],
@@ -541,20 +546,20 @@
       "Row 4"
     ],
     [
-      "c8339d3f-2a0b-4224-aaa5-c6a666f3eb7d",
-      "Row 5"
-    ],
-    [
-      "f7068ff2-6269-4b95-b653-94e1f2bfea44",
-      "Row 3"
+      "32478c4a-34ea-496f-90ac-08b7a83ec437",
+      "Row 1"
     ],
     [
       "f1815ebc-9e98-4ea9-a119-19a930263b66",
       "Row 2"
     ],
     [
-      "32478c4a-34ea-496f-90ac-08b7a83ec437",
-      "Row 1"
+      "f7068ff2-6269-4b95-b653-94e1f2bfea44",
+      "Row 3"
+    ],
+    [
+      "c8339d3f-2a0b-4224-aaa5-c6a666f3eb7d",
+      "Row 5"
     ]
   ],
   "text_variables": {}
